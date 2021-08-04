@@ -1,0 +1,14 @@
+{
+    "home_page": "Home Page",
+    "personal_information": "Personal Information",
+    "name": "Name",
+    "name_hint": "Enter your name",
+    "email": "Email",
+    "email_hint": "Enter your email",
+    "pwd": "Password",
+    "pwd_hint": "Enter your password",
+    "required_field": "Required Field",
+    "submit": "Submit",
+    "change_language": "English",
+    "success_msg":"Submitted Successfully!!!"
+}

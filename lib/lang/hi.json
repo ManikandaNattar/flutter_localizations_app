@@ -1,0 +1,14 @@
+{
+    "home_page": "मुख पृष्ठ",
+    "personal_information": "व्यक्तिगत जानकारी",
+    "name": "नाम",
+    "name_hint": "अपना नाम दर्ज करें",
+    "email": "ईमेल",
+    "email_hint": "अपना ईमेल दर्ज करें",
+    "pwd": "कुंजिका",
+    "pwd_hint":"अपना कूटशब्द भरें",
+    "required_field": "आवश्यक क्षेत्र",
+    "submit": "प्रस्तुत करन",
+    "change_language": "हिंदी",
+    "success_msg":"सफलतापूर्वक जमा!!!"
+}

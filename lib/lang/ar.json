@@ -1,0 +1,14 @@
+{
+    "home_page": "الصفحة الرئيسية",
+    "personal_information": "معلومات شخصية",
+    "name": "اسم",
+    "name_hint": "أدخل أسمك",
+    "email": "البريد الإلكتروني",
+    "email_hint": "أدخل بريدك الالكتروني",
+    "pwd": "كلمة المرور",
+    "pwd_hint":"ادخل رقمك السري",
+    "required_field": "يتطلب حقلا",
+    "submit": "إرسال",
+    "change_language": "عربى",
+    "success_msg":"تم الإرسال بنجاح!!!"
+}

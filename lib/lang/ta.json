@@ -1,0 +1,14 @@
+{
+    "home_page": "முகப்பு பக்கம்",
+    "personal_information": "Personal Information",
+    "name": "பெயர்",
+    "name_hint": "உங்கள் பெயரை உள்ளிடவும்",
+    "email": "மின்னஞ்சல்",
+    "email_hint": "மின்னஞ்சலை பதிவுசெய்",
+    "pwd": "கடவுச்சொல்",
+    "pwd_hint": "உங்கள் கடவுச்சொல்லை உள்ளிடவும்",
+    "required_field": "Required Field",
+    "submit": "சமர்ப்பிக்கவும்",
+    "change_language": "தமிழ்",
+    "success_msg":"வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது !!!"
+}
